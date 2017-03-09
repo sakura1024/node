@@ -62,5 +62,6 @@
 
 
 此外：比如说想测试百度的性能
-node sakura $ ab -n1000 -c10 https://www.baidu.com/相关
+	node sakura $ ab -n1000 -c10 https://www.baidu.com/相关
+
 相关资料：http://www.cnblogs.com/mankeheaven/p/6350112.html
