@@ -6,6 +6,7 @@
 	（其中，n代表执行的所有文件数，c代表并发执行的文件数）
 
 成功后显示的结果：
+
 	This is ApacheBench, Version 2.3 <$Revision: 1748469 $>
 	Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
 	Licensed to The Apache Software Foundation, http://www.apache.org/
@@ -62,6 +63,7 @@
 
 
 此外：比如说想测试百度的性能
+
 	node sakura $ ab -n1000 -c10 https://www.baidu.com/
 
 相关资料：http://www.cnblogs.com/mankeheaven/p/6350112.html
