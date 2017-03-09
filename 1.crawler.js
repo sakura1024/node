@@ -13,4 +13,4 @@ http.get(url,function (res) {
 	});
 }).on('error',function () {
 	console.log("爬虫获取数据出错！");
-})
+});
